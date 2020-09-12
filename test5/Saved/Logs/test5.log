@@ -4588,3 +4588,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.12-05.54.20:506][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016192131A00), frame # 621928
 [2020.09.12-05.54.20:509][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
 [2020.09.12-05.54.20:565][929]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.09.12-05.58.07:195][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.12-05.58.07:324][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.09.12-05.58.07:528][813]LogSavePackage: Moving '../../../../myapp/UE4Project/minigame/test5/Saved/SideScrollerExampleMap48AB03E04EE86FE9758B26A79E98110E.tmp' to '../../../../myapp/UE4Project/minigame/test5/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2020.09.12-05.58.07:558][813]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.286
+[2020.09.12-05.58.08:128][813]LogSavePackage: Moving '../../../../myapp/UE4Project/minigame/test5/Saved/SideScrollerExampleMap_BuiltData8147781F446458DA7A9332BFB1A5297D.tmp' to '../../../../myapp/UE4Project/minigame/test5/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2020.09.12-05.58.08:172][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Enemy/AI_Worm" FILE="../../../../myapp/UE4Project/minigame/test5/Content/AI_Enemy/AI_Worm.uasset" SILENT=true
+[2020.09.12-05.58.08:262][813]LogSavePackage: Moving '../../../../myapp/UE4Project/minigame/test5/Saved/AI_Worm1A21F0F84A9868F3519649BE488C8AEF.tmp' to '../../../../myapp/UE4Project/minigame/test5/Content/AI_Enemy/AI_Worm.uasset'
+[2020.09.12-05.58.08:347][813]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI_Enemy/AI_Worm.
+[2020.09.12-05.58.08:383][813]AssetCheck: New page: 资产保存：多个资产
+[2020.09.12-05.58.08:383][813]LogContentValidation: Display: 正在验证World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2020.09.12-05.58.08:383][813]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2020.09.12-05.58.08:383][813]LogContentValidation: Display: 正在验证Blueprint /Game/AI_Enemy/AI_Worm.AI_Worm
+[2020.09.12-05.58.10:253][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.09.12-05.58.10:429][912]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.10:429][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.10:947][912]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.12-05.58.10:948][912]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.10:948][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.11:538][912]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.12-05.58.11:538][912]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.11:539][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.11:946][912]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.12-05.58.11:946][912]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.11:946][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.12:168][912]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.12:168][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.12:206][912]LogSlate: Window 'Patrol_T' being destroyed
+[2020.09.12-05.58.12:228][912]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.12:228][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.12-05.58.12:412][912]LogSlate: Window 'test5 - 虚幻编辑器' being destroyed
+[2020.09.12-05.58.12:432][912]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2020.09.12-05.58.13:002][913]Cmd: QUIT_EDITOR
+[2020.09.12-05.58.13:002][913]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.09.12-05.58.13:048][913]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.09.12-05.58.13:671][913]LogExit: Preparing to exit.
+[2020.09.12-05.58.14:528][913]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.14:532][913]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.14:535][913]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.14:538][913]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.14:541][913]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.14:948][913]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.09.12-05.58.15:273][913]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.09.12-05.58.15:287][913]LogExit: Editor shut down
+[2020.09.12-05.58.15:291][913]LogExit: Transaction tracking system shut down
+[2020.09.12-05.58.17:607][913]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001608CC2D840), frame # 622913
+[2020.09.12-05.58.17:607][913]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001608CAD1E40), frame # 622913
+[2020.09.12-05.58.17:613][913]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001608CB11C00), frame # 622913
